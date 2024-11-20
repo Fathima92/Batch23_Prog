@@ -9,7 +9,7 @@ def connect_to_db():
         host="localhost",
         user="your_username",
         password="your_password",
-        database="your_database"
+        database="customer_db"
     )
 
 # Register User
